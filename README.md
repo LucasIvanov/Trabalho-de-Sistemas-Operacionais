@@ -12,7 +12,6 @@
 - **Ryan Hideki Inoue Matsunaga Pereira**
 
 **Professor:** Marcio Seiji Oyamada  
-**Ano:** 2025
 
 ---
 
