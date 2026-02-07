@@ -359,9 +359,7 @@ Embora baseado em conceitos do FAT32, este sistema possui diferenças importante
 
 ---
 
-## 🧪 Testes e Validação
-
-### Casos de Teste Recomendados
+## 🧪 Funções do sistema
 
 1. **Formatação e Montagem**
    - Formatar disco
@@ -393,23 +391,7 @@ Embora baseado em conceitos do FAT32, este sistema possui diferenças importante
    - Verificar liberação no bitmap
    - Verificar espaço disponível
 
----
 
-## 🐛 Tratamento de Erros
-
-O sistema trata os seguintes erros:
-
-- ❌ Disco não formatado
-- ❌ Arquivo já existe
-- ❌ Arquivo não encontrado
-- ❌ Espaço insuficiente no disco
-- ❌ Limite de arquivos atingido
-- ❌ Nome muito longo
-- ❌ Permissão negada
-- ❌ Falha de leitura/escrita
-- ❌ Usuário inválido
-
----
 
 ## 📚 Referências
 
@@ -417,24 +399,6 @@ O sistema trata os seguintes erros:
 2. **Silberschatz, A., Galvin, P. B., Gagne, G.** - Fundamentos de Sistemas Operacionais
 3. **Material da disciplina** - Sistemas Operacionais, UNIOESTE
 4. **Documentação FAT32** - Microsoft Corporation
-
----
-
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins educacionais como trabalho final da disciplina de Sistemas Operacionais da UNIOESTE.
-
----
-
-## 📧 Contato
-
-Para dúvidas ou sugestões sobre o projeto, entre em contato com os autores através da UNIOESTE.
-
----
-
-## ✨ Agradecimentos
-
-Agradecemos ao Professor Marcio Seiji Oyamada pela orientação e conhecimentos transmitidos durante a disciplina de Sistemas Operacionais.
 
 ---
 
